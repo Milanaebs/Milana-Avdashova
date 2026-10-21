@@ -1,0 +1,6 @@
+{
+  "name": "Milana Avdashova — Voice Assistant & Portfolio",
+  "description": "Minimalist voice assistant and professional portfolio representing Milana Avdashova, featuring real-time multilingual voice conversation in English and Russian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
